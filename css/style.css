@@ -10,6 +10,9 @@
     font-family: "poppins", sans-serif;
 
 }
+html{
+    scroll-behavior: smooth; 
+}
 
 :root{
     --main-color: #033a80;
