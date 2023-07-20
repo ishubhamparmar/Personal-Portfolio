@@ -1,8 +1,9 @@
 # Personal-Portfolio
 
 Portfolio Website using HTML, CSS, JavaScript
+Discover my impressive portfolio website featuring captivating design, interactive elements, and a working contact form. Showcasing my skills and achievements with ease. Explore my expertise and passion for web development at the provided live link. Excited to connect and collaborate!
 
-Live: https://ishubhamparmar.github.io/Personal-Portfolio
+Live: https://ishubhamparmar.netlify.app/
 
 # Hi, I'm Shubham Parmar! 👋
 
