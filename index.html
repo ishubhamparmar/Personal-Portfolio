@@ -211,12 +211,24 @@
 
       <!-- form -->
       <div class="contact-form">
-        <form action="" method="post" data-netlify="true">
-          <input type="text" placeholder="Your Name" />
-          <input type="email" placeholder="Your Email" />
+        <form action="" name="contact" method="post" data-netlify="true">
+          <input
+            type="text"
+            id="name"
+            name="name"
+            placeholder="Your Name"
+            required
+          />
+          <input
+            type="email"
+            name="email"
+            id="email"
+            placeholder="Your Email"
+            required
+          />
           <textarea
-            name=""
-            id=""
+            name="message"
+            id="message"
             cols="30"
             rows="10"
             placeholder="Type Your Message Here..."
