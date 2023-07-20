@@ -374,9 +374,10 @@ form textarea{
     justify-content: center;
     text-transform: uppercase;
     letter-spacing: 1px;
-    margin-left: 35%;
+    margin-left: auto;
     border: none;
     border-radius: 5px;
+    text-align: center;
 }
 
 .submit-button:hover{
