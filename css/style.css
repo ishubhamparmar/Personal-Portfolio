@@ -56,9 +56,8 @@ header{
     justify-content: space-between;
     background: var(--bg-color);
     padding: 8px 10%;
-    transition: 0.2s;
-    box-shadow: -3px -3px 10px #ffffff73,
-                2px 2px 5px rgba(94, 104, 121, 0.288);
+    transition: 0.4s;
+    box-shadow: 0px 5px 10px 0px #aaa;
 
 }
 
