@@ -119,9 +119,23 @@ header{
     font-size: var(--big-font);
 }
 
-.home-text h2{
+.subheading span{
     font-size: 1.1rem;
     font-weight: 400;
+}
+
+.typing-animation {
+    animation: typing 2s steps(20, end), blink-caret 0.75s step-end infinite;
+}
+
+@keyframes typing {
+    from { width: 0; }
+    to { width: 100%; }
+}
+
+@keyframes blink-caret {
+    from, to { border-color: transparent; }
+    50% { border-color: #333; }
 }
 
 .home-text p{
